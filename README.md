@@ -9,4 +9,13 @@
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
 - [Books I have read](#books-i-have-read)
-# About me
+## About me
+## Tools used in testing
+## Tech skills
+## Courses
+## Webinars and recommended blogs
+## Examples of my work
+### Test cases
+### Bug reports and work in Jira
+### Mindmaps and diagrams
+## Books I have read
